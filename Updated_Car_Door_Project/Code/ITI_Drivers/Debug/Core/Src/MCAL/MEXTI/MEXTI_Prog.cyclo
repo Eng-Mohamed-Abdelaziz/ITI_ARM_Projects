@@ -1,0 +1,10 @@
+../Core/Src/MCAL/MEXTI/MEXTI_Prog.c:39:6:MEXTI_vHWInterruptEnable	1
+../Core/Src/MCAL/MEXTI/MEXTI_Prog.c:51:6:MEXTI_vHWInterruptDisable	1
+../Core/Src/MCAL/MEXTI/MEXTI_Prog.c:63:6:MEXTI_vHWEventEnable	1
+../Core/Src/MCAL/MEXTI/MEXTI_Prog.c:75:6:MEXTI_vHWEventDisable	1
+../Core/Src/MCAL/MEXTI/MEXTI_Prog.c:87:6:MEXTI_vSoftwareInterrupt	1
+../Core/Src/MCAL/MEXTI/MEXTI_Prog.c:99:6:MEXTI_vSetTriggerType	5
+../Core/Src/MCAL/MEXTI/MEXTI_Prog.c:125:6:MEXTI_vSetExtiConfig	21
+../Core/Src/MCAL/MEXTI/MEXTI_Prog.c:230:6:MEXTI_vSetCallback	3
+../Core/Src/MCAL/MEXTI/MEXTI_Prog.c:243:6:EXTI0_IRQHandler	1
+../Core/Src/MCAL/MEXTI/MEXTI_Prog.c:248:6:EXTI1_IRQHandler	1

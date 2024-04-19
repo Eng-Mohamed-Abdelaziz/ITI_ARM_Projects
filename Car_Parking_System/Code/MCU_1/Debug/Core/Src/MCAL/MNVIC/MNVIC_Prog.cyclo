@@ -1,0 +1,5 @@
+../Core/Src/MCAL/MNVIC/MNVIC_Prog.c:35:6:MNVIC_vInterruptSetEnable	1
+../Core/Src/MCAL/MNVIC/MNVIC_Prog.c:45:6:MNVIC_vInterruptClearEnable	1
+../Core/Src/MCAL/MNVIC/MNVIC_Prog.c:55:6:MNVIC_vSetGroupMode	1
+../Core/Src/MCAL/MNVIC/MNVIC_Prog.c:68:6:MNVIC_vSetInterruptPriority	6
+../Core/Src/MCAL/MNVIC/MNVIC_Prog.c:80:6:MNVIC_voidDisableInterruptPending	1

@@ -1,0 +1,2 @@
+../Core/Src/HAL/DC_Motor/DC_Motor.c:14:6:DC_Motor_Init	1
+../Core/Src/HAL/DC_Motor/DC_Motor.c:20:6:DC_Motor_Rotate	5

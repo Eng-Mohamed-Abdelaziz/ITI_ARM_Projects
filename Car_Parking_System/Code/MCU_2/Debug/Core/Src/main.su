@@ -1,0 +1,7 @@
+../Core/Src/main.c:39:6:Parking_3	8	static
+../Core/Src/main.c:50:6:Parking_2	8	static
+../Core/Src/main.c:61:6:Parking_1	8	static
+../Core/Src/main.c:72:6:SaveData	8	static
+../Core/Src/main.c:89:6:Give_LeftOver	16	static
+../Core/Src/main.c:99:5:Get_Amount	32	static
+../Core/Src/main.c:134:5:main	32	static

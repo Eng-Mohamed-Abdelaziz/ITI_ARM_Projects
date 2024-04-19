@@ -1,0 +1,4 @@
+../Core/Src/HAL/Comms/Communication.c:23:6:Comms_Init	2
+../Core/Src/HAL/Comms/Communication.c:139:6:Comms_Enable_Disable	2
+../Core/Src/HAL/Comms/Communication.c:148:4:Comms_Read_Write	3
+../Core/Src/HAL/Comms/Communication.c:179:6:Comms_SetCallBack	2

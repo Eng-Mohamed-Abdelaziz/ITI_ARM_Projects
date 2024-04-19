@@ -1,0 +1,2 @@
+../Core/Src/HAL/DC_Motor/DC_Motor.c:14:6:DC_Motor_Init	8	static
+../Core/Src/HAL/DC_Motor/DC_Motor.c:24:6:DC_Motor_Rotate	16	static

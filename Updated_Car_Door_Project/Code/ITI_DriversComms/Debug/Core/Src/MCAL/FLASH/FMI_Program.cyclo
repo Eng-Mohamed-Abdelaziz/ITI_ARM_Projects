@@ -1,0 +1,3 @@
+../Core/Src/MCAL/FLASH/FMI_Program.c:27:6:FMI_vEraseAppArea	3
+../Core/Src/MCAL/FLASH/FMI_Program.c:45:6:FMI_vSectorErase	3
+../Core/Src/MCAL/FLASH/FMI_Program.c:66:6:FMI_vFlashWrite	4
